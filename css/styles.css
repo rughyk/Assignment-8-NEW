@@ -1,0 +1,93 @@
+@charset "utf-8";
+* {
+	padding: 0;
+	border: 0;
+	margin: auto;
+}
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+	font-family: 'gotham';
+}
+body {
+	background: url('https://img.freepik.com/free-photo/blue-wall-background_127657-23567.jpg?size=626&ext=jpg');
+	background-size: cover;
+	background-position: center;
+	position: center;
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-stretch: 3px;
+    width: 100%;
+    color: #00890F;
+    opacity: 1;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.about {
+	color: whitesmoke;
+	text-align: center;
+	padding: 20px;
+	background-color: darkseagreen;
+}
+	
+#insta {
+	padding: 30px;
+	text-align: center;
+}
+#header {
+	padding: 30px;
+	background-color: darkseagreen;
+}
+#aboutme {
+	padding: 50px 0px 0px;
+}
+.meroi {
+	background-color: black;
+	padding-bottom: 10px;
+	text-align: center;
+	font-size: 40px;
+	color: darkred;
+}
+#footer {
+	padding: 20px;
+}
+.footertext {
+	text-align: right;
+	color: white;
+}
+#instatext {
+	color: whitesmoke;
+	text-align: center;
+	font-size: 25px;
+}
+#instatext2 {
+	color: whitesmoke;
+	text-align: center;
+	font-size: 25px;
+}
+#instatext3 {
+	color: whitesmoke;
+	text-align: center;
+	font-size: 25px;
+}
+#columntext {
+    font-family: 'gotham';
+    color: darkred;
+    font-size: 40px;
+    text-align: center;
+  }
+.leftarrow {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+.back {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
